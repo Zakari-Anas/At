@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "766653213572",
+    "project_id": "atelier4-a-zakari",
+    "storage_bucket": "atelier4-a-zakari.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766653213572:android:999151eb77ac60cf758bd1",
+        "android_client_info": {
+          "package_name": "com.example.atelier4_a_zakari_iir5g2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArhLPnl79XXuhPFPn8FExEiw6KECXt-Sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
